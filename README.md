@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Typescript-3766AB?style=flat-square&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
