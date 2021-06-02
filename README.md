@@ -24,3 +24,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/>
 </div>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurim22&hide=contribs,prs)
