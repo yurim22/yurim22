@@ -1,6 +1,7 @@
 <div align="center">
-  ### Hi there 👋
-  ### ⚒ TECH STACK ⚒
+  <h2> Hi there 👋 </h2>
+  ****************************
+  <h3> ⚒ TECH STACK ⚒ </h3>
   🌱 I’m currently learning ...
   <!--
   **yurim22/yurim22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
