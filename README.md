@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+<center> ### ⚒ TECH STACK ⚒ </center>
 🌱 I’m currently learning ...
 <!--
 **yurim22/yurim22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display:flex; align-items:center; justify-content:center">
+<center style="display:flex; align-items:center; justify-content:center">
   <img src="https://img.shields.io/badge/Javascript-f4a261?style=flat-square&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3766AB?style=flat-square&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"/>
@@ -23,7 +25,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/>
-</div>
+</center>
 
 <br/>
 <br/>
