@@ -1,6 +1,5 @@
 <div align="center">
   <h2> Hi there 👋 </h2>
-  ******
   <h3> ⚒ TECH STACK ⚒ </h3>
   🌱 I’m currently learning ...
 
@@ -16,6 +15,6 @@
   </div>
   <br/>
   <br/>
-</div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurim22&hide=contribs,prs&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurim22&hide=contribs,prs&show_icons=true&theme=radical)
+</div>
