@@ -2,7 +2,6 @@
   <h2> Hi there 👋 </h2>
   <h3> ⚒ TECH STACK ⚒ </h3>
   🌱 I’m currently learning ...
-
   <div style="display:flex; align-items:center; justify-content:center;">
     <img src="https://img.shields.io/badge/Javascript-f4a261?style=flat-square&logo=Javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Typescript-3766AB?style=flat-square&logo=Typescript&logoColor=white"/>
@@ -15,6 +14,6 @@
   </div>
   <br/>
   <br/>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurim22&hide=contribs,prs&show_icons=true&theme=radical)
-
 </div>
+<center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurim22&hide=contribs,prs&show_icons=true&theme=radical)
+</center>
