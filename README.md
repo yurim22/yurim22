@@ -1,5 +1,5 @@
 ### Hi there 👋
-### ⚒ TECH STACK ⚒
+<h3 style="align: center;">⚒ TECH STACK ⚒</h3>
   🌱 I’m currently learning ...
   <!--
   **yurim22/yurim22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
