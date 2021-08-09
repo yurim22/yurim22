@@ -1,5 +1,6 @@
 <div align="center">
   <h2> Hi there 👋 </h2>
+  <img src="https://github.com/yurim22/yurim22/blob/main/svg-animation/yurim-github.gif" alt="svg-animation" />
   <h3> ⚒ TECH STACK ⚒ </h3>
   🌱 I’m currently learning ...
   <br/>
