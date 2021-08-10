@@ -6,7 +6,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yurim22&hide=contribs,prs&show_icons=true&theme=radical">
 
-👩‍💻 Frontend Developer
+👩‍💻 Frontend Developer </br>
 🌱 I’m currently learning ...
 
 - 🌎 Web
