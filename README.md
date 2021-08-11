@@ -12,4 +12,4 @@
 - 🌎 Web
 - 🏄‍♀️ FrontEnd : JS, TS, React, Angular
 - 🧗‍♀️ BackEnd : Node, Nest
-- 🌸 UX
+- 🌸 UX/UI
