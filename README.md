@@ -4,7 +4,7 @@
 
 ### I'm Yurim. 😀
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yurim22&hide=contribs,prs&show_icons=true&theme=radical">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yurim22&hide=contribs,prs&show_icons=true&theme=buefy">
 
 👩‍💻 Frontend Developer </br>
 🌱 I’m currently learning ...
