@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>I'm Yurim.🦦</h1>
+  <h1>Yurim.🦦</h1>
 </div>
 
 <p align="center">
