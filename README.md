@@ -2,11 +2,6 @@
   <h1>Yurim.🦦</h1>
 </div>
 
-<p align="center">
-  <img src="https://github.com/yurim22/yurim22/blob/main/svg-animation/yurim-github.gif" alt="svg-animation" />
-</p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yurim22&hide=contribs,prs&show_icons=true&theme=buefy">
 
 👩‍💻 <b>Frontend Developer</b> </br>
 🌱 I’m currently learning ...
