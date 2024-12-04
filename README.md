@@ -25,7 +25,7 @@
 ### 😇 Good At...
 * 💻 Enhancing development productivity
 * 🗣️ Communicating with people
-* 🥖 Baking and sharing bread
+* 🥖 Baking and sharing bread:)
 
 
 </div>
